@@ -26,8 +26,3 @@ This project is an implementation of the classic Connect 4 game, extended with u
 
 This program is designed to run on Windows systems due to its dependency on the Windows console API.
 
-To compile the program:
-
-```bash
-g++ -o connect4 main.cpp
-./connect4
